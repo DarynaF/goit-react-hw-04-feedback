@@ -1,0 +1,17 @@
+.button {
+  height: 40px;
+  width: 80px;
+  margin-left: 20px;
+  background-color: rgb(201, 201, 201);
+  border-radius: 2px;
+  font-size: medium;
+}
+
+.button:first-child {
+  margin-left: 0px;
+  background-color: rgb(79, 227, 42);
+}
+
+.button:last-child {
+  background-color: rgb(255, 115, 84);
+}
